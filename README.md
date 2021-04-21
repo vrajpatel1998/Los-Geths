@@ -4,11 +4,11 @@
 
 |Los Gehts     |CSE 115A          |
 |--------------|------------------|
-|Ankur Mishra  |Release: Alpha    |
+|Vraj Patel |Release: Alpha    |
 |Aria Diamond  |Version: 1.0      |
 |Jonathan Amar |Revised: 3/9/2021 |
 |Spencer Gurley|Hunger Harmony    |
-|Vraj Patel    |SAVAJ DMAPG       |
+|Ankur Mishra|SAVAJ DMAPG       |
 
 ### Installation
 
